@@ -1,21 +1,21 @@
 # 👋 Hi, I'm David
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Backend+Developer;Building+Real+Projects;Learning+Everyday" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Backend+Developer;Future+Software+Engineer;Building+Real+Projects;Always+Learning" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎯 Goal: Become a Software Engineer
+* 🎯 Becoming a Software Engineer
 * 🧠 Learning: JavaScript, Node.js, Python
-* 🏗️ Building: Real-world projects
-* ⚡ Interested in AI, algorithms & backend systems
+* 🏗️ Building projects instead of just watching tutorials
+* ⚡ Interested in backend, algorithms & AI
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,nodejs,git,github,vscode" />
@@ -23,60 +23,55 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iDxvd&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDxvd&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iDxvd&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDxvd&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=iDxvd&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=iDxvd&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iDxvd&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iDxvd&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🧠 Currently Learning
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iDxvd&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/iDxvd/iDxvd/blob/output/github-contribution-grid-snake.svg)
+* Backend architecture
+* APIs & databases
+* Problem solving (algorithms)
 
 ---
 
-## 📌 Featured Project
+## 📌 Project Spotlight
 
 ### 🔹 Collatz Conjecture Visualizer
 
-* 📊 Visualizes the Collatz Conjecture
-* ⚠️ Not for large numbers (graph loses quality)
-* 🧪 Built to practice Python & share with the community
+* 📊 Visual representation of the Collatz Conjecture
+* ⚠️ Not for extremely large inputs (graph loses quality)
+* 🧪 Built to practice Python and share with the community
 
 ---
 
-## ⚡ Extras
+## 🎯 2026 Goals
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iDxvd&color=blue" />
-</p>
+* 💻 Get strong in backend development
+* 🧠 Understand system design
+* 🚀 Build real-world projects
+* 🌍 Work remotely as a developer
 
 ---
 
@@ -86,6 +81,8 @@
 
 ---
 
-## 💡 Fun Fact
+## ⚡ Profile Views
 
-I build projects to learn, not just watch tutorials.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iDxvd&color=38BDF8" />
+</p>
