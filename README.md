@@ -1,4 +1,4 @@
-<!-- 🔷 BANNER -->
+<!-- 🔷 HEADER BANNER -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e293b&height=200&section=header&text=iDxvd&fontSize=50&fontColor=ffffff&animation=fadeIn" />
@@ -17,9 +17,10 @@
 ## 🚀 About Me
 
 * 🎯 Becoming a Software Engineer
-* 🧠 Learning by building real projects
-* ⚡ Focused on backend, systems & AI
-* 🌎 Based in Dominican Republic
+* 🧠 Learning: JavaScript, Node.js, Python
+* 🏗️ Building real projects (not just tutorials)
+* ⚡ Interested in backend, algorithms & AI
+* 🌎 Dominican Republic
 
 ---
 
@@ -31,13 +32,13 @@
   <img src="https://skillicons.dev/icons?i=js,python,ts" />
 </p>
 
-### ⚙️ Backend & Tools
+### ⚙️ Tools & Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,git,github,vscode" />
 </p>
 
-### 🧪 Currently Exploring
+### 🧪 Exploring
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,cpp,mysql" />
@@ -45,11 +46,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Stable)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iDxvd&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDxvd&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iDxvd&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iDxvd&theme=tokyonight" />
 </p>
 
 ---
@@ -78,13 +79,13 @@
 
 ---
 
-## 📌 Featured Project
+## 📌 Project Spotlight
 
 ### 🔹 Collatz Conjecture Visualizer
 
 * 📊 Visualizes the Collatz Conjecture
-* ⚠️ Not for large numbers (graph loses quality)
-* 🧪 Built to practice Python and share knowledge
+* ⚠️ Not for very large inputs (graph loses quality)
+* 🧪 Built to practice Python and share with the community
 
 ---
 
@@ -92,7 +93,7 @@
 
 * 💻 Become a strong backend developer
 * 🧠 Learn system design
-* 🚀 Build impactful projects
+* 🚀 Build real-world projects
 * 🌍 Work remotely in tech
 
 ---
@@ -100,9 +101,9 @@
 ## ⚡ Dev Mindset
 
 ```txt
-Build > Watch tutorials
-Consistency > Motivation
-Projects > Theory
+Build > Watch tutorials  
+Consistency > Motivation  
+Projects > Theory  
 ```
 
 ---
