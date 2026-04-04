@@ -81,11 +81,11 @@
 
 ## 📌 Project Spotlight
 
-### 🔹 Collatz Conjecture Visualizer
+### 🔹 Soon...
 
-* 📊 Visualizes the Collatz Conjecture
-* ⚠️ Not for very large inputs (graph loses quality)
-* 🧪 Built to practice Python and share with the community
+* 📊 Soon...
+* ⚠️ Soon...
+* 🧪Soon...
 
 ---
 
