@@ -14,6 +14,14 @@
 
 ---
 
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iDxvd&color=38BDF8" />
+</p>
+
+---
+
 ## 🚀 About Me
 
 * 🎯 Becoming a Software Engineer
@@ -111,14 +119,6 @@ Projects > Theory
 ## 📫 Contact
 
 * GitHub: https://github.com/iDxvd
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iDxvd&color=38BDF8" />
-</p>
 
 ---
 
